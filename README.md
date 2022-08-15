@@ -15,6 +15,7 @@ It will have interview questions and short notes.
 - [ ] [Arrow functions]()
 - [ ] [var, let and const]()
 - [ ] [Call, bind and apply]()
+- [ ] More Coming soon...
  
  
 ## Resources
