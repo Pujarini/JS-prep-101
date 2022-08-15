@@ -24,6 +24,7 @@ It will have interview questions and short notes.
 - [Rest Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters)
 - [Function Questions - RoadsideCoder on YouTube](https://www.youtube.com/watch?v=btwFJT_xzdg)
 - [Function Concepts - Akshay Saini on YouTube ](https://www.youtube.com/watch?v=SHINoHxvTso)
+- [JavaScript.info](https://javascript.info/function-basics)
 
 
 
