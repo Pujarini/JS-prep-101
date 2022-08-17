@@ -11,7 +11,7 @@ It will have interview questions and short notes.
 ## Contents
 
  - [x]  [Functions](https://github.com/Pujarini/JS-prep-101/blob/develop/functions.md)
- - [ ] [Callback functions]()
+ - [x] [Callback functions]()
 - [ ] [Arrow functions]()
 - [ ] [var, let and const]()
 - [ ] [Call, bind and apply]()
