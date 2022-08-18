@@ -13,6 +13,7 @@ It will have interview questions and short notes.
  - [x]  [Functions](https://github.com/Pujarini/JS-prep-101/blob/develop/functions.md)
  - [x] [Callback functions]()
 - [ ] [Arrow functions]()
+- [ ] Hoisting Interview Questions
 - [ ] [var, let and const]()
 - [ ] [Call, bind and apply]()
 - [ ] More Coming soon...
