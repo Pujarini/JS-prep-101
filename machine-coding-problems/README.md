@@ -15,6 +15,10 @@
 - [ ]  Quiz App
 - [ ]  To Do List App
 - [ ]  Temperature Converter
+- [ ]  Nested Comments
+- [ ]  Star rating
+- [ ]  Modal
+- [ ]  Accordion
 ### Difficulty : MEDIUM
 - [ ] Clone of Popular websites
 - [ ] Expense Tracker App
@@ -31,7 +35,7 @@
 - [ ] Signin & Signup Forms using Authentication
 - [ ] Survey App
 
-### More resources
+### resources
 
 [More machine coding problems](https://workat.tech/machine-coding/article/how-to-practice-for-machine-coding-kp0oj3sw2jca)
 
