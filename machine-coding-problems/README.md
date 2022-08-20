@@ -38,9 +38,10 @@
 ### resources
 
 [Workattech machine coding problems](https://workat.tech/machine-coding/article/how-to-practice-for-machine-coding-kp0oj3sw2jca)
+
 [DevKode problems](https://workat.tech/machine-coding/article/how-to-practice-for-machine-coding-kp0oj3sw2jca)
 
-https://github.com/devkodeio/the-dom-challenge
+
 
 
 
