@@ -30,6 +30,7 @@ It will have interview questions and short notes.
 - [JavaScript.info - Callbacks ](https://javascript.info/callbacks)
 - [MDN - call Stack ](https://developer.mozilla.org/en-US/docs/Glossary/Call_stack)
 - [MDN - Callback function ](https://developer.mozilla.org/en-US/docs/Glossary/Callback_function)
+- [JavaScript.info - Arrow functions](https://javascript.info/arrow-functions)
 
 
 
