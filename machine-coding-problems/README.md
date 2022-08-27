@@ -4,7 +4,7 @@
 ### Difficulty : BEGINNER
 
 - [x]   QR code generator
-- [ ]   Slider
+- [x]   Slider [Codepen](https://codepen.io/pujarini/pen/YzaoNdg)
 - [ ]  Carousel
 - [ ]  Whatsapp last seen
 - [ ]  WhiteBoard
@@ -21,7 +21,7 @@
 - [ ]  Accordion
 ### Difficulty : MEDIUM
 - [ ] Clone of Popular websites
-- [ ] [Expense Tracker App : Code](https://github.com/Pujarini/js-expense-tracker/tree/master)
+- [x] [Expense Tracker App : Code](https://github.com/Pujarini/js-expense-tracker/tree/master)
 - [ ] Book Finder App
 - [ ] Dynamic Landing Page
 - [ ] Web app using External API
