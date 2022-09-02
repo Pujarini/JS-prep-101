@@ -19,6 +19,7 @@
 - [ ]  Star rating
 - [ ]  Modal
 - [ ]  Accordion
+- [ ] TicTacToe
 ### Difficulty : MEDIUM
 - [ ] Clone of Popular websites
 - [x] [Expense Tracker App : Code](https://github.com/Pujarini/js-expense-tracker/tree/master)
@@ -35,11 +36,27 @@
 - [ ] Signin & Signup Forms using Authentication
 - [ ] Survey App
 
+
+
+
 ### resources
 
 [Workattech machine coding problems](https://workat.tech/machine-coding/article/how-to-practice-for-machine-coding-kp0oj3sw2jca)
 
 [DevKode problems](https://workat.tech/machine-coding/article/how-to-practice-for-machine-coding-kp0oj3sw2jca)
+
+❌ TicTacToe
+🔟 Calculator
+⏰ Alarm Clock
+📁 File Explorer
+🐍 Snake Game
+🎵 Music Player
+🌐 Web Crawler
+🔗 URL Shortener
+🤖 Web Automator
+❓ Files Rename Tool
+🚅 Speed Typing Test
+🔒 Password Generator
 
 
 
