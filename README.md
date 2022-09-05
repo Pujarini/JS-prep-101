@@ -7,6 +7,10 @@ I am preparing for my JS interviews and this is the documenting of my JS prepara
 
 It will have interview questions and short notes.
 
+### Support
+
+Give a ⭐️ to support it.
+
 
 ## Contents
 
