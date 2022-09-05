@@ -16,6 +16,7 @@ It will have interview questions and short notes.
 - [x] Hoisting Interview Questions
 - [ ] [var, let and const]()
 - [ ] [Call, bind and apply]()
+- [x] [Execution context]()
 - [ ] More Coming soon...
  
  
@@ -31,6 +32,7 @@ It will have interview questions and short notes.
 - [MDN - call Stack ](https://developer.mozilla.org/en-US/docs/Glossary/Call_stack)
 - [MDN - Callback function ](https://developer.mozilla.org/en-US/docs/Glossary/Callback_function)
 - [JavaScript.info - Arrow functions](https://javascript.info/arrow-functions)
+- [Execution context](https://www.youtube.com/watch?v=iLWTnMzWtj4&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP&index=3)
 
 
 
