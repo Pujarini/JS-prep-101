@@ -26,20 +26,19 @@ Give a ⭐️ to support it.
  
 ## Resources
 
-- [Spread Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
-- [Rest Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters)
-- [Function Questions - RoadsideCoder on YouTube](https://www.youtube.com/watch?v=btwFJT_xzdg)
-- [Function Concepts - Akshay Saini on YouTube ](https://www.youtube.com/watch?v=SHINoHxvTso)
-- [JavaScript.info - Functions](https://javascript.info/function-basics)
-- [CallBack functions - Akshay Saini on YouTube ](https://www.youtube.com/watch?v=btj35dh3_U8)
-- [JavaScript.info - Callbacks ](https://javascript.info/callbacks)
-- [MDN - call Stack ](https://developer.mozilla.org/en-US/docs/Glossary/Call_stack)
-- [MDN - Callback function ](https://developer.mozilla.org/en-US/docs/Glossary/Callback_function)
-- [JavaScript.info - Arrow functions](https://javascript.info/arrow-functions)
-- [Execution context](https://www.youtube.com/watch?v=iLWTnMzWtj4&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP&index=3)
 
-
-
+| Topic  | Resource |
+| ------------- | ------------- |
+| Spread Operator  | [Spread Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)  |
+| Rest Operator  | [Rest Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters)  |
+| Functions (Ques)  | [Function Questions - RoadsideCoder on YouTube](https://www.youtube.com/watch?v=btwFJT_xzdg)  |
+| Function Concepts | [Function Concepts - Akshay Saini on YouTube ](https://www.youtube.com/watch?v=SHINoHxvTso)  |
+| JavaScript.info - Functions  | [JavaScript.info - Functions](https://javascript.info/function-basics)  |
+| MDN - call Stack | [MDN - call Stack ](https://developer.mozilla.org/en-US/docs/Glossary/Call_stack)  |
+| MDN - Callback function | [MDN - Callback function ](https://developer.mozilla.org/en-US/docs/Glossary/Callback_function)  |
+| JavaScript.info - Arrow functions  | [JavaScript.info - Arrow functions](https://javascript.info/arrow-functions)  |
+| Execution context  | [Execution context](https://www.youtube.com/watch?v=iLWTnMzWtj4&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP&index=3)  |
+| Hoisting  | [Hoisting](https://www.youtube.com/watch?v=Fnlnw8uY6jo)  |
 
 
 ## 🔗 My Links
