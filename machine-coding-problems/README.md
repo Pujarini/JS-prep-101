@@ -19,7 +19,7 @@
 - [ ]  Star rating
 - [ ]  Modal
 - [ ]  Accordion
-- [ ] TicTacToe
+- [ ]  TicTacToe
 ### Difficulty : MEDIUM
 - [ ] Clone of Popular websites
 - [x] [Expense Tracker App : Code](https://github.com/Pujarini/js-expense-tracker/tree/master)
@@ -35,6 +35,12 @@
 - [ ] Chat App
 - [ ] Signin & Signup Forms using Authentication
 - [ ] Survey App
+- [ ] Splitwise
+- [ ] Snack and ladder
+- [ ] Trello
+- [ ] Parking lot
+- [ ] Chess validator
+- [ ] 2048 game
 
 
 
@@ -44,6 +50,8 @@
 [Workattech machine coding problems](https://workat.tech/machine-coding/article/how-to-practice-for-machine-coding-kp0oj3sw2jca)
 
 [DevKode problems](https://workat.tech/machine-coding/article/how-to-practice-for-machine-coding-kp0oj3sw2jca)
+
+- [Machine coding ](https://github.com/topics/machine-coding?l=javascript)
 
 ❌ TicTacToe
 🔟 Calculator
