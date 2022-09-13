@@ -1,3 +1,7 @@
+Problem statement 
+
+https://workat.tech/machine-coding/practice/splitwise-problem-0kp2yneec2q2
+
 - Split expense between n no. of people (take int) and display
 
 - split with people obj created and display ppl
