@@ -5,3 +5,7 @@
 - people obj created and now you can select you want to split with
 
 - choose to split equally , fully, owed or percentage wise
+
+### Resources
+
+https://codepen.io/ribesnero/pen/Prvwdd
