@@ -9,3 +9,5 @@
 ### Resources
 
 https://codepen.io/ribesnero/pen/Prvwdd
+
+https://betterprogramming.pub/lets-build-a-simple-bill-splitter-in-javascript-9c67da4fa18
