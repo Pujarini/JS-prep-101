@@ -53,6 +53,10 @@
 
 - [Machine coding ](https://github.com/topics/machine-coding?l=javascript)
 
+- (Machine coding problems)[https://www.youtube.com/watch?v=GSq_GqJ-PuQ]
+
+- [Browser coding](https://www.youtube.com/watch?v=FjnHF3CXEaM)
+
 ❌ TicTacToe
 🔟 Calculator
 ⏰ Alarm Clock
