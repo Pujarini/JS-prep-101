@@ -16,7 +16,7 @@ Give a ⭐️ to support it.
 
  - [x]  [Functions](https://github.com/Pujarini/JS-prep-101/blob/develop/functions.md)
  - [x] [Callback functions]()
-- [ ] [Arrow functions]()
+- [x] [Arrow functions]()
 - [x] Hoisting Interview Questions
 - [ ] [var, let and const]()
 - [ ] [Call, bind and apply]()
