@@ -1,16 +1,32 @@
+# How Arrow functions work? 
 
 ## Arrow Functions
+
+### Syntax : 
 
 ```javascript
 let sum = (a, b) => a + b;
 
-
 ```
 
+- Arrow functions have no ```this```.
 
-- They require no "this"
+- They take this from outer normal function.
 
-They access "this" from outside.
+
+```javascript
+
+let user = {
+  firstName: "jen",
+  sayHi() { //outer normal function
+    let arrow = () => alert(this.firstName); // arrow function
+    arrow();
+  }
+};
+user.sayHi(); // jen
+
+```
+Arrow function's outer normal function is sayHi() which has firstName.
 
 ```javascript
 let group = {
@@ -60,34 +76,35 @@ Arrow functions also have no arguments variable.
 const obj = {
   dev: 'bfe',
   a: function() {
-    return this.dev
+    return this.dev // bfe
   },
   b() {
-    return this.dev
+    return this.dev // bfe
   },
   c: () => {
-    return this.dev
+    return this.dev //undefined since it is an arrow function
   },
   d: function() {
     return (() => {
-      return this.dev
-    })()
+      return this.dev  // returns (return this.dev);
+    })() 
+    // bfe
   },
   e: function() {
-    return this.b()
+    return this.b() // bfe
   },
   f: function() {
-    return this.b
+    return this.b //undefined this will return b function and then the this inside b is window object
   },
   g: function() {
-    return this.c()
+    return this.c() // undefined since c is an arrow function.
   },
   h: function() {
-    return this.c
+    return this.c // undefined since c is an arrow function
   },
   i: function() {
     return () => {
-      return this.dev
+      return this.dev // bfe first call it will return arrow function and then second call will return bfe
     }
   }
 }
@@ -101,4 +118,3 @@ console.log(obj.f()())
 console.log(obj.g())
 console.log(obj.h()())
 console.log(obj.i()())
-```
