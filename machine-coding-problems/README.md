@@ -5,6 +5,9 @@
 
 - [x]   QR code generator
 - [x]   Slider [Codepen](https://codepen.io/pujarini/pen/YzaoNdg)
+- [ ]  Star rating (27 sept)
+- [ ]  To Do List App (27 sept)
+- [ ]  Progress bar (27 sept)
 - [ ]  Carousel
 - [ ]  Whatsapp last seen
 - [ ]  WhiteBoard
@@ -13,13 +16,12 @@
 - [ ] Calculator App
 - [ ]  Weather App
 - [ ]  Quiz App
-- [ ]  To Do List App
 - [ ]  Temperature Converter
 - [ ]  Nested Comments
-- [ ]  Star rating
 - [ ]  Modal
 - [ ]  Accordion
 - [ ]  TicTacToe
+
 ### Difficulty : MEDIUM
 - [ ] Clone of Popular websites
 - [x] [Expense Tracker App : Code](https://github.com/Pujarini/js-expense-tracker/tree/master)
@@ -28,6 +30,7 @@
 - [ ] Web app using External API
 - [ ] Card-Memory-Game
 - [ ] Simple Online Store
+
 ### Difficulty : HARD
 - [ ] Shuffle Card Deck
 - [ ] Admin Dashboard including charts & graphs
