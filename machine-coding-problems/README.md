@@ -5,8 +5,8 @@
 
 - [x]   QR code generator
 - [x]   Slider [Codepen](https://codepen.io/pujarini/pen/YzaoNdg)
-- [x]  Star rating (27 sept)
-- [ ]  To Do List App (27 sept)
+- [x]  Star rating done
+- [ ]  To Do List App (27 sept wip)
 - [ ]  Progress bar (27 sept)
 - [ ]  Carousel
 - [ ]  Whatsapp last seen
