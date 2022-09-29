@@ -1,0 +1,35 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.star_game {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.star-rating {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
+
+.star {
+  background-color: unset;
+  border: none;
+}
+
+.star i {
+  color: gold;
+  font-size: 50px;
+  cursor: pointer;
+}
+/* 
+.star_number {
+  margin-top: 10px;
+} */
