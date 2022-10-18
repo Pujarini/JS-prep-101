@@ -27,7 +27,6 @@ function same(arr1, arr2) {
   for (let val of arr2) {
     freq2[val] = (freq2[val] || 0) + 1;
   }
-  console.log(freq1, "1", freq2, "2");
 
   for (let key in freq1) {
     if (!(key * key in freq2)) {
