@@ -6,8 +6,13 @@
 - [x]   QR code generator
 - [x]   Slider [Codepen](https://codepen.io/pujarini/pen/YzaoNdg)
 - [x]  Star rating done
-- [ ]  To Do List App (27 sept wip)
-- [ ]  Progress bar (27 sept)
+- [ ]  Google typeahead suggestions (22 oct)
+- [ ]  Google calender (22 oct)
+- [ ]  To Do List App 
+- [ ]  Render Dynamic form using config
+- [ ]  Twitter post like textarea
+- [ ]  Progress bar 
+- [ ]  Product listing with features filter (Flipkart question)
 - [ ]  Carousel
 - [ ]  Whatsapp last seen
 - [ ]  WhiteBoard
@@ -59,6 +64,9 @@
 - (Machine coding problems)[https://www.youtube.com/watch?v=GSq_GqJ-PuQ]
 
 - [Browser coding](https://www.youtube.com/watch?v=FjnHF3CXEaM)
+
+- [Chirag goel](https://www.youtube.com/watch?v=c_kVh_-gQtI&list=PL4CFloQ4GGWJKu24kuizRUj9KiSO216Bj)
+
 
 ❌ TicTacToe
 🔟 Calculator
