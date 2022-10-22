@@ -16,4 +16,4 @@ function sortBubble(nums) {
   return nums;
 }
 
-console.log(sortBubble([8, 7, 6, 5, 4, 20, 12])); //O(n*n)
+console.log(sortBubble([8, 7, 6, 5, 4, 20, 12])); //O(n) with no swaps and O(n*n)
