@@ -8,3 +8,6 @@ Must have :
 - create a data model which mimics the data from api using promise
 - clear suggestions when user clears the input box
 - rate limit function calls on every network call (debounce the input change)
+
+
+- need to add intersection observer for multiple results of dropdown
