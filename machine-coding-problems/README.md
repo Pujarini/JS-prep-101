@@ -9,6 +9,8 @@
 - [x]  Google typeahead suggestions (22 oct)
 - [x]  Carousel
 - [x]  Nested Comments [in react](https://github.com/Pujarini/comment-widget-navi)
+- [x]  Tabs
+- [x]  Accordion
 - [ ]  Google calender (22 oct)
 - [ ]  To Do List App 
 - [ ]  Render Dynamic form using config
@@ -23,9 +25,7 @@
 - [ ]  Weather App
 - [ ]  Quiz App
 - [ ]  Temperature Converter
-
 - [ ]  Modal
-- [ ]  Accordion
 - [ ]  TicTacToe
 
 ### Difficulty : MEDIUM
