@@ -1,0 +1,21 @@
+.accordion {
+  background-color: lightcoral;
+  color: #eee;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  width: 100%;
+  text-align: left;
+  padding: 25px;
+}
+
+.accordion:hover {
+  background-color: lightsalmon;
+}
+
+.panel {
+  display: none;
+  background-color: white;
+  padding: 20px;
+  border: 1px solid;
+}
