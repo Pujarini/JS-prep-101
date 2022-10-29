@@ -6,14 +6,15 @@
 - [x]   QR code generator
 - [x]   Slider [Codepen](https://codepen.io/pujarini/pen/YzaoNdg)
 - [x]  Star rating done
-- [ ]  Google typeahead suggestions (22 oct)
+- [x]  Google typeahead suggestions (22 oct)
+- [x]  Carousel
+- [x]  Nested Comments [in react](https://github.com/Pujarini/comment-widget-navi)
 - [ ]  Google calender (22 oct)
 - [ ]  To Do List App 
 - [ ]  Render Dynamic form using config
 - [ ]  Twitter post like textarea
 - [ ]  Progress bar 
 - [ ]  Product listing with features filter (Flipkart question)
-- [ ]  Carousel
 - [ ]  Whatsapp last seen
 - [ ]  WhiteBoard
 - [ ]  Product Landing Page
@@ -22,7 +23,7 @@
 - [ ]  Weather App
 - [ ]  Quiz App
 - [ ]  Temperature Converter
-- [ ]  Nested Comments
+
 - [ ]  Modal
 - [ ]  Accordion
 - [ ]  TicTacToe
