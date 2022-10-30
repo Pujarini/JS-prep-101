@@ -1,0 +1,37 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+}
+.container {
+  width: 1000px;
+  border: 1px solid;
+  max-height: 600px;
+  overflow-y: scroll;
+}
+
+.day {
+  border-bottom: 1px solid gray;
+  height: 100px;
+  width: 100%;
+  position: relative;
+  /* text-align: center; */
+}
+
+.event {
+  position: absolute;
+  height: 150px;
+  /* background-color: aqua; */
+  width: 100%;
+  top: 0;
+  bottom: 0;
+  z-index: 10px;
+  text-align: center;
+  /* background-color: blanchedalmond; */
+  border-radius: 10px;
+}
