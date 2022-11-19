@@ -1,0 +1,96 @@
+.notification-container {
+  position: fixed;
+  box-sizing: border-box;
+  font-size: 15px;
+}
+
+.top-right {
+  top: 12px;
+  right: 12px;
+  transition: transform 0.6s ease-in-out;
+  animation: toast-in-right 0.7s;
+}
+
+.top-left {
+  top: 12px;
+  left: 12px;
+  transition: transform 0.6s ease-in-out;
+  animation: toast-in-left 0.7s;
+}
+
+.bottom-right {
+  bottom: 12px;
+  right: 12px;
+  transition: transform 0.6s ease-in-out;
+  animation: toast-in-right 0.7s;
+}
+
+.bottom-left {
+  bottom: 12px;
+  left: 12px;
+  transition: transform 0.6s ease-in-out;
+  animation: toast-in-left 0.7s;
+}
+
+.notification {
+  position: relative;
+  border: 1px solid;
+  width: 350px;
+  max-height: 100px;
+  border-radius: 3px;
+  padding: 20px;
+  margin-bottom: 10px;
+}
+
+.notification:hover {
+  cursor: pointer;
+}
+
+.notification-title {
+  text-align: left;
+  font-weight: 700;
+}
+
+.notification-container button {
+  position: relative;
+  right: -0.3em;
+  top: -0.3em;
+  float: right;
+  font-weight: 700;
+  color: black;
+  outline: none;
+  border: none;
+  text-shadow: 0 1px 0 #fff;
+  opacity: 0.8;
+  line-height: 1;
+  font-size: 16px;
+  padding: 0;
+  cursor: pointer;
+  background: 0 0;
+  border: 0;
+}
+
+.success {
+  background-color: #5cb85c;
+}
+.danger {
+  background-color: #d9534f;
+}
+
+@keyframes toast-in-right {
+  from {
+    transform: translateX(100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+@keyframes toast-in-left {
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}

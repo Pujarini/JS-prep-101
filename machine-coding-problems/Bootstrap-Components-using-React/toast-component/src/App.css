@@ -1,0 +1,22 @@
+body {
+  background-color: #121212;
+  border: 1px solid white;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.user-input {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.user-input input {
+  border: none;
+  outline: none;
+  max-width: 100px;
+}
