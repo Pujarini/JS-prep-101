@@ -1,38 +1,77 @@
-import { useState } from "react";
+// import { useState } from "react";
+import { useState, useEffect } from "react";
 import "./App.css";
-import Button from "./components/Button/Button";
-import { BUTTON_PROPS, TOAST_PROPERTIES } from "./components/Toast/constants";
-import Toast from "./components/Toast/Toast";
+import Tabs from "./components/Tabs/Tabs";
+// import Button from "./components/Button/Button";
+// import { BUTTON_PROPS, TOAST_PROPERTIES } from "./components/Toast/constants";
+// import Toast from "./components/Toast/Toast";
+
+const tabs = [
+  {
+    id: 1,
+    title: "Tab 1",
+    content: "content 1",
+  },
+  {
+    id: 2,
+    title: "Tab 2",
+    content: "content 2",
+  },
+  {
+    id: 3,
+    title: "Tab 3",
+    content: "content 3",
+  },
+];
 
 function App() {
-  const [list, setList] = useState([]);
-  const [pos, setPos] = useState();
-  const [delay, setDelay] = useState(0);
+  const [currentTab, setCurrentTab] = useState(tabs);
+
+  // useEffect(() => {
+  //   setCurrentTab(tabs);
+  // }, [tabs]);
+
+  // const [list, setList] = useState([]);
+  // const [pos, setPos] = useState();
+  // const [delay, setDelay] = useState(0);
 
   //showing Toast
-  const showToast = (type) => {
-    const toastProperties = TOAST_PROPERTIES.find(
-      (toast) => toast.title.toLowerCase() === type
-    );
-    setList([...list, toastProperties]);
-  };
+  // const showToast = (type) => {
+  //   const toastProperties = TOAST_PROPERTIES.find(
+  //     (toast) => toast.title.toLowerCase() === type
+  //   );
+  //   setList([...list, toastProperties]);
+  // };
 
-  // for position
-  const selectPos = (e) => {
-    setPos(e.target.value);
-    setList([]);
-  };
+  // // for position
+  // const selectPos = (e) => {
+  //   setPos(e.target.value);
+  //   setList([]);
+  // };
 
-  // delete manually on click of x
-  const deleteToast = (id) => {
-    const index = list.findIndex((e) => e.id === id);
-    list.splice(index, 1);
-    setList([...list]);
+  // // delete manually on click of x
+  // const deleteToast = (id) => {
+  //   const index = list.findIndex((e) => e.id === id);
+  //   list.splice(index, 1);
+  //   setList([...list]);
+  // };
+
+  const addNewTab = () => {
+    let allTabs = currentTab;
+    console.log(allTabs);
+
+    const { length } = allTabs;
+    const id = length + 1;
+    const found = allTabs.some((el) => el.id === id);
+    if (!found)
+      allTabs.push({ id, title: `Random ${id}`, content: ` content ${id}` });
+    setCurrentTab(allTabs);
   };
+  console.log(currentTab);
 
   return (
     <div className="App">
-      <div className="toast-btn">
+      {/* <div className="toast-btn">
         {BUTTON_PROPS.map((btn) => {
           return (
             <Button
@@ -75,7 +114,9 @@ function App() {
         deleteToast={deleteToast}
         autoDeleteDelay={delay}
         autoDelete
-      />
+      /> */}
+      <button onClick={addNewTab}>Add new Tab</button>
+      <Tabs tabs={currentTab} />
     </div>
   );
 }

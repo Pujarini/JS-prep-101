@@ -1,13 +1,13 @@
 body {
-  background-color: #121212;
-  border: 1px solid white;
+  /* background-color: #121212;
+  border: 1px solid white; */
 }
 
 .App {
-  display: flex;
+  /* display: flex;
   justify-content: center;
   align-items: center;
-  flex-direction: column;
+  flex-direction: column; */
 }
 
 .user-input {

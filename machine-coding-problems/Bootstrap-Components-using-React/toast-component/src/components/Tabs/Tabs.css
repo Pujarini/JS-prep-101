@@ -1,0 +1,38 @@
+.box {
+  width: 300px;
+  margin: auto;
+  border: 2px solid;
+}
+
+.tabs {
+  display: flex;
+  justify-content: space-between;
+}
+
+.tab {
+  padding: 10px;
+  background: #ccc;
+  text-align: center;
+  border: 1px solid;
+  flex: 1;
+  cursor: pointer;
+}
+
+.tab.active-tab {
+  background: white;
+  border: none;
+}
+
+.tab-content {
+  position: relative;
+}
+
+.content {
+  position: relative;
+  display: none;
+}
+
+.active-content {
+  display: block;
+  margin: 10px;
+}

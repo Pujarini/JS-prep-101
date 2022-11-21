@@ -1,0 +1,49 @@
+.container {
+  display: flex;
+}
+
+.categories {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.cat {
+  cursor: pointer;
+}
+
+.content {
+  flex: 4;
+  padding: 10px;
+  border: 1px solid;
+}
+
+.content img {
+  height: 350px;
+  width: 300px;
+  object-fit: contain;
+}
+
+.menu {
+  flex: 1;
+}
+
+.product-container {
+  display: flex;
+  justify-content: space-evenly;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.content-details {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid;
+  padding: 10px;
+}
+
+.title {
+  width: 100px;
+}
