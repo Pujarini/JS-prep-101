@@ -13,6 +13,7 @@
 - [x]  Accordion
 - [x]  File System [CodeSandbox](https://codesandbox.io/s/fileexplorer-3zz25y?file=/src/Explorer.js)
 - [x]  Pagination  [CodeSandbox](https://codesandbox.io/s/optimistic-leaf-ns6eld?file=/src/App.js:977-982)
+- [x]  TicTacToe  [CodeSandbox](https://codesandbox.io/s/infallible-burnell-7z9y6n?file=/src/utils/Winner.js)
 - [ ]  Google calender (22 oct)
 - [ ]  To Do List App 
 - [ ]  Render Dynamic form using config
@@ -28,7 +29,7 @@
 - [ ]  Quiz App
 - [ ]  Temperature Converter
 - [ ]  Modal
-- [ ]  TicTacToe
+
 
 ### Difficulty : MEDIUM
 - [ ] Clone of Popular websites
