@@ -1,0 +1,19 @@
+button {
+  height: 50px;
+  width: 50px;
+  font-size: 30px;
+  padding: 5px;
+  text-align: center;
+  margin: 2px;
+}
+
+.display_component {
+  background-color: lightgray;
+  height: 50px;
+  width: 220px;
+}
+
+.display_component p {
+  font-size: 35px;
+  text-align: right;
+}
