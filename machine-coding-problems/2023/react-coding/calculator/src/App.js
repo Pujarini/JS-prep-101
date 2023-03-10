@@ -8,7 +8,15 @@ function App() {
 
   const handleKeys = (key) => {
     if (key === "=") {
+      //calculates the result
       calculateResult();
+    } else if (key === "AC") {
+      // reset the result
+      setResult("");
+    } else if (key === "CE") {
+      // delete last element
+      let answer = result.slice(0, -1);
+      setResult(answer);
     } else {
       let answer = result + key;
       setResult(answer);

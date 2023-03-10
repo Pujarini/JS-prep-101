@@ -1,7 +1,7 @@
 export const KEY_BUTTONS = [
   "(",
   ")",
-  "%",
+  "CE",
   "AC",
   "7",
   "8",
