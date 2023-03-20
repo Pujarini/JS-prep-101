@@ -31,7 +31,6 @@ Give a ⭐️ to support it.
 | ------------- | ------------- |
 | Spread Operator  | [Spread Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)  |
 | Rest Operator  | [Rest Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters)  |
-| Functions (Ques)  | [Function Questions - RoadsideCoder on YouTube](https://www.youtube.com/watch?v=btwFJT_xzdg)  |
 | Function Concepts | [Function Concepts - Akshay Saini on YouTube ](https://www.youtube.com/watch?v=SHINoHxvTso)  |
 | JavaScript.info - Functions  | [JavaScript.info - Functions](https://javascript.info/function-basics)  |
 | MDN - call Stack | [MDN - call Stack ](https://developer.mozilla.org/en-US/docs/Glossary/Call_stack)  |
